@@ -1,2 +1,5 @@
 # Internship
-All the projects and worksheets, files.
+C SOMA SEKHAR GOUD
+# BATCH: DS2307
+
+WORKSHEET SET-1
