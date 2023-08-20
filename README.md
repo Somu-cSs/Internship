@@ -1,2 +1,5 @@
 # Internship
-All the projects and worksheets, files.
+WEB-SCRAPING ASSIGNMENT-1
+
+C SOMA SEKHAR
+BATCH:DS2307
