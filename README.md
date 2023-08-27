@@ -1,8 +1,6 @@
 # Internship
+# Selenium webscraping
 
-#Web Scraping Assignment-2
+Web Scraping Assignment-2
 
-#Batch:DS2307
-
-
-All the projects and worksheets, files.
+Batch:DS2307
