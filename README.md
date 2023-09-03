@@ -1,2 +1,6 @@
 # Internship
-All the projects and worksheets, files.
+# Web Scraping Assignment-3
+
+# C SOMA SEKHAR GOUD
+
+# Batch DS2307
