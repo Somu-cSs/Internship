@@ -1,4 +1,6 @@
 # Internship
+Note: Plotly based graphs/plots are not being displayed in github due to unknown reasons. So I have uploaded a demo and graphs of the visual data.
+
 
 C SOMA SEKHAR GOUD
 BATCH.NO: DS2307
@@ -7,7 +9,6 @@ World Happiness Report
 ---------------------------------------------------
 
 All the projects and worksheets, files (are in branches).
-Note: Plotly based graphs/plots are not being displayed in github due to unknown reasons. So I have uploaded a demo and graphs of the visual data.
 
 https://github.com/Somu-cSs/Internship/assets/87493457/54b40f53-2d79-4a56-9c68-6c46941a80af
 
