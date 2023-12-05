@@ -22,17 +22,26 @@ avocados (e.g. greenskins) are not included in this table.
 
 # Some relevant columns in the dataset:
 • Date - The date of the observation
+
 • AveragePrice - the average price of a single avocado
+
 • type - conventional or organic
+
 • year - the year
+
 • Region - the city or region of the observation
+
 • Total Volume - Total number of avocados sold
+
 • 4046 - Total number of avocados with PLU 4046 sold
+
 • 4225 - Total number of avocados with PLU 4225 sold
+
 • 4770 - Total number of avocados with PLU 4770 sold
 
 
 # Inspiration /Label
 The dataset can be seen in two angles to find the region and find the average price .
+
 Task: One of Classification and other of Regression
 Do both tasks in the same .ipynb file and submit at single file.
