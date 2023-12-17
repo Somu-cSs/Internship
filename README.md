@@ -1,13 +1,13 @@
 # Loan Application Status Prediction
 
-# Internship
-
 C SOMA SEKHAR GOUD
----------------
+
 BATCH.NO: DS2307
+
 ---------------------------------------------------
 
-## Project Description
+# Project Description
+
 This dataset includes details of applicants who have applied for loan. The dataset includes 
 details like credit history, loan amount, their income, dependents etc.
 
