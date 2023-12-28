@@ -6,7 +6,7 @@ BATCH.NO: DS2307
 
 ---------------------------------------------------
 
-Project Description
+## Project Description
 
 The dataset is related to red and white variants of the Portuguese "Vinho Verde" wine. Due to privacy and 
 logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there 
@@ -41,6 +41,7 @@ Input variables (based on physicochemical tests):
 11 - alcohol
 
 Output variable (based on sensory data):
+
 12 - quality (score between 0 and 10)
 
 What might be an interesting thing to do, is to set an arbitrary cutoff for your dependent variable 
