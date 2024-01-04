@@ -49,7 +49,7 @@ All the projects and worksheets, files (are in branches).
 
 - [Temperature Forecast Project](https://github.com/Somu-cSs/Internship/tree/Temperature-Forecast-Project)
 
-- [Titanic survived Project](https://github.com/Somu-cSs/Internship/tree/Titanic-survived-Project)\
+- [Titanic survived Project](https://github.com/Somu-cSs/Internship/tree/Titanic-survived-Project)
 
 - [World Happiness Report Project](https://github.com/Somu-cSs/Internship/tree/World-Happiness-Report-Project)
 
